@@ -1,0 +1,6 @@
+db.sqlite3
+.env 
+teacherenv
+**/__pycache__
+teacherwebsite\__pycache__
+
